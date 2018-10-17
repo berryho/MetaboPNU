@@ -1,5 +1,5 @@
 # MetaboPNU
-This is the source code of the paper Deep Learning-based prediction model for classifying Ginseng cultivation age using 1H-NMR spectroscopy.
+This is the source code of the paper Deep Learning approach for classification of Ginseng cultivation age using 1H-NMR metabolomics data.
 
 # Prerequisites
 python 3.6
