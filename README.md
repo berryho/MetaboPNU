@@ -15,3 +15,9 @@ pandas 0.23.4
 numpy 1.15.2
 
 matplotlib 3.0.0
+
+# Usage
+Use DNN model.py 
+- usded model: 930-0.2492.hdf5
+- example data set: ginseng-example.csv
+- 
